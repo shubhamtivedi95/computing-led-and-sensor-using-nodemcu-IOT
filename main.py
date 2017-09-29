@@ -7,8 +7,8 @@ ssid="<your wifi ssid>"
 password="<your wifi password>"
 username="<your username>"
 secrete_key="<active key>"
-read_obj_name="<led block name>"
-write_obj_name="<text block name>"
+read_obj_name="<led block title>"
+write_obj_name="<text block title>"
 wlan=WLAN(STA_IF)
 wlan.active(True)
 
