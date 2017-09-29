@@ -1,5 +1,5 @@
 # computing led and sensor using nodemcu(IOT)
-.
+
 Full instructable tutorial is available on this link.
 https://www.instructables.com/id/IOT-Base-Computing-Using-Nodemcu-and-Micropython/
 
